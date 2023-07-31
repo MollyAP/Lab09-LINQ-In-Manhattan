@@ -26,6 +26,4 @@ The results of each task will be displayed in the console.
 The project is written in C# and utilizes LINQ queries and Lambda expressions to process the data. The `Newtonsoft.Json` (NewtonSoftJson) NuGet package is used for reading and deserializing the data from the `data.json` file.
 
 ## Change Log
-- Version 1.0.0: Initial release with all specified functionalities and questions answered. (Date: DD/MM/YYYY)
-
-Please note that this README serves as a general template and should be updated with accurate and relevant information specific to your project. Additionally, you can include sections like Installation, Usage, Contribution Guidelines, License, etc., if applicable to your project.
+- Version 1.0.0: 07/31/2023
